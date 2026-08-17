@@ -1,1 +1,6 @@
 Today I learned how to clone a repository
+Today I learned:
+- git clone
+- git status
+- git add
+- git commit
