@@ -1,5 +1,5 @@
 Today I learned how to clone a repository
-Today I learned:
+Today I learned: 17 aug
 - git clone
 - git status
 - git add
