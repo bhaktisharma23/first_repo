@@ -12,3 +12,7 @@ Git fetch vs pull
 git fetch downloads information about changes from the remote repository without changing my current branch.
 
 git pull fetches the changes and integrates them into my current branch.
+
+Today I learned git stash :
+Git stash temporarily saves uncommitted changes.
+Git stash pop restores the saved changes.
