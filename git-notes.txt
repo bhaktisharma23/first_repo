@@ -25,3 +25,8 @@ Git restore
 
 git restore <file> discards uncommitted changes in a file.
 It restores the file to its last committed state.
+
+Git reset vs git revert
+
+git reset moves the branch pointer to an earlier commit and can rewrite local history.
+git revert creates a new commit that undoes the changes of an earlier commit.
