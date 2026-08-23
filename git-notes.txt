@@ -31,3 +31,8 @@ Git reset vs git revert
 
 git reset moves the branch pointer to an earlier commit and can rewrite local history.
 git revert creates a new commit that undoes the changes of an earlier commit.
+
+23 aug:
+Git cherry-pick
+
+git cherry pick applies a specific from a branch to the current branch
