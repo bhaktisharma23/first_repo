@@ -36,3 +36,9 @@ git revert creates a new commit that undoes the changes of an earlier commit.
 Git cherry-pick
 
 git cherry pick applies a specific from a branch to the current branch
+
+25 aug:
+Git reflog
+
+git reflog records updates to HEAD and branch references.
+It can help recover commits after accidental reset or other history changes.
